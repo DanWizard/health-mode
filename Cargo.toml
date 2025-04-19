@@ -1,0 +1,10 @@
+[package]
+name = "org_analyzer"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+regex = "1"
+plotters = "0.3.7"
+chrono = "0.4.40"
